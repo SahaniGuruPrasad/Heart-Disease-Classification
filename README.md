@@ -1,6 +1,6 @@
 # Heart-Disease-Classification
 ## Objective
-In the Modern day life style the risk of heart disease is significantly increasing as compare to the earier days life style. Food Consumtion, Living Environment, Physical Activities, Stress and Workload management, Habits like Alcohol consumption or smoking etc are factors which are highly related to the risk of heart diseases. This project is intended to predict the risk of heart disease such as whether the patient is prone to heart disease or not with his daily life and living style activities as factors using Machine Learning.
+In the Modern day life style the risk of heart disease is significantly increasing as compare to the earier days life style. Food Consumption, Living Environment, Physical Activities, Stress and Workload management, Habits like Alcohol consumption or smoking etc are factors which are highly related to the risk of heart diseases. This project is intended to predict the risk of heart disease such as whether the patient is prone to heart disease or not with his daily life and living style activities as factors using Machine Learning.
 
 ## Goal🎯
 The Goal of this project is to build and implement an Accurate Machine Learning Model which can predict whether the patient is prone to heart disease or not.
